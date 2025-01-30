@@ -1,4 +1,4 @@
 Belajar Penggunaan Git
 Done: Installansi
 To Do: 
-- Latihan
+- Latihan push and pull
