@@ -1,0 +1,6 @@
+Done:
+- Installansi Git
+- Membuat repositori di cloud
+- Belajar menggunakan perintah git (add, commit, remote, push, and pull)
+To Do: 
+- Belajar kolaborasi lewat branching
